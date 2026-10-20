@@ -1,0 +1,3 @@
+# Action Item 1 only: no PyTorch, GPU, or model weights needed.
+transformers>=4.40,<5
+Pillow>=10,<13

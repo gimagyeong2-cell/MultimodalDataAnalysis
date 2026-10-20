@@ -1,0 +1,18 @@
+Action Item 1: article prefix examples
+Headline: Before 'Moonlight' and 'The Walking Dead,' a Friendship Born in the Classroom
+Category: Theater
+Original body tokens: 1590
+Body token counts EXCLUDE special tokens.
+
+[8 body tokens / actual 8 / with special tokens 10]
+Danai Gurira and Andre Holland in
+
+[32 body tokens / actual 32 / with special tokens 34]
+Danai Gurira and Andre Holland in a theater at New York University, where they met in the Tisch Graduate Acting Program.
+
+Behind every successful person
+
+[128 body tokens / actual 128 / with special tokens 130]
+Danai Gurira and Andre Holland in a theater at New York University, where they met in the Tisch Graduate Acting Program.
+
+Behind every successful person are relationships that helped forge a path. But the stories of these friendships, collaborations, alliances, romances or rivalries often are lost in the glow of achievement. In this new feature, we explore a personal connection that made a difference in the lives of two artists. Andre Holland never thought much about writing his own monologues when he attended the Tisch graduate acting program at New York University. But one day, early in his first semester in 2003, he watched another African

@@ -1,0 +1,718 @@
+{
+  "evaluation_split": "validation (used for C selection; preliminary results)",
+  "units": "0 to 1; delta_pp = 100 * difference",
+  "settings": {
+    "text_model": "FacebookAI/roberta-base",
+    "text_revision": "e2da8e2f811d1448a5b465c236feacd80ffbac7b",
+    "tokens": 32,
+    "text_pooling": "CLS",
+    "image_model": "resnet50",
+    "image_weights": "IMAGENET1K_V2",
+    "encoders_frozen": true
+  },
+  "split_counts": {
+    "train": 2000,
+    "val": 500,
+    "test": 500
+  },
+  "scores": {
+    "text_only": {
+      "accuracy": 0.6,
+      "macro_f1": 0.5767790887666031,
+      "per_class": {
+        "Art & Design": {
+          "precision": 0.5172413793103449,
+          "recall": 0.7142857142857143,
+          "f1-score": 0.6,
+          "support": 21.0
+        },
+        "Automobiles": {
+          "precision": 0.8823529411764706,
+          "recall": 0.9375,
+          "f1-score": 0.9090909090909091,
+          "support": 16.0
+        },
+        "Books": {
+          "precision": 0.52,
+          "recall": 0.5652173913043478,
+          "f1-score": 0.5416666666666666,
+          "support": 23.0
+        },
+        "Dance": {
+          "precision": 0.7,
+          "recall": 0.5384615384615384,
+          "f1-score": 0.6086956521739131,
+          "support": 26.0
+        },
+        "Economy": {
+          "precision": 0.5333333333333333,
+          "recall": 0.5333333333333333,
+          "f1-score": 0.5333333333333333,
+          "support": 15.0
+        },
+        "Education": {
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1-score": 0.6666666666666666,
+          "support": 6.0
+        },
+        "Fashion & Style": {
+          "precision": 0.3333333333333333,
+          "recall": 0.28,
+          "f1-score": 0.30434782608695654,
+          "support": 25.0
+        },
+        "Food": {
+          "precision": 0.6363636363636364,
+          "recall": 0.84,
+          "f1-score": 0.7241379310344828,
+          "support": 25.0
+        },
+        "Global Business": {
+          "precision": 0.625,
+          "recall": 0.5,
+          "f1-score": 0.5555555555555556,
+          "support": 10.0
+        },
+        "Health": {
+          "precision": 0.6153846153846154,
+          "recall": 0.6666666666666666,
+          "f1-score": 0.64,
+          "support": 24.0
+        },
+        "Media": {
+          "precision": 0.5,
+          "recall": 0.6923076923076923,
+          "f1-score": 0.5806451612903226,
+          "support": 26.0
+        },
+        "Movies": {
+          "precision": 0.6176470588235294,
+          "recall": 0.8076923076923077,
+          "f1-score": 0.7,
+          "support": 26.0
+        },
+        "Music": {
+          "precision": 0.6923076923076923,
+          "recall": 0.72,
+          "f1-score": 0.7058823529411765,
+          "support": 25.0
+        },
+        "Opinion": {
+          "precision": 0.38095238095238093,
+          "recall": 0.36363636363636365,
+          "f1-score": 0.37209302325581395,
+          "support": 22.0
+        },
+        "Real Estate": {
+          "precision": 0.625,
+          "recall": 0.625,
+          "f1-score": 0.625,
+          "support": 24.0
+        },
+        "Science": {
+          "precision": 0.7,
+          "recall": 0.84,
+          "f1-score": 0.7636363636363637,
+          "support": 25.0
+        },
+        "Sports": {
+          "precision": 0.7777777777777778,
+          "recall": 0.8076923076923077,
+          "f1-score": 0.7924528301886793,
+          "support": 26.0
+        },
+        "Style": {
+          "precision": 0.2222222222222222,
+          "recall": 0.17391304347826086,
+          "f1-score": 0.1951219512195122,
+          "support": 23.0
+        },
+        "Technology": {
+          "precision": 0.8095238095238095,
+          "recall": 0.68,
+          "f1-score": 0.7391304347826086,
+          "support": 25.0
+        },
+        "Television": {
+          "precision": 0.7647058823529411,
+          "recall": 0.52,
+          "f1-score": 0.6190476190476191,
+          "support": 25.0
+        },
+        "Theater": {
+          "precision": 0.7058823529411765,
+          "recall": 0.5217391304347826,
+          "f1-score": 0.6,
+          "support": 23.0
+        },
+        "Travel": {
+          "precision": 0.5454545454545454,
+          "recall": 0.48,
+          "f1-score": 0.5106382978723404,
+          "support": 25.0
+        },
+        "Well": {
+          "precision": 1.0,
+          "recall": 0.2,
+          "f1-score": 0.3333333333333333,
+          "support": 5.0
+        },
+        "Your Money": {
+          "precision": 0.2222222222222222,
+          "recall": 0.2222222222222222,
+          "f1-score": 0.2222222222222222,
+          "support": 9.0
+        },
+        "accuracy": 0.6,
+        "macro avg": {
+          "precision": 0.621946049311668,
+          "recall": 0.5720694879798142,
+          "f1-score": 0.5767790887666031,
+          "support": 500.0
+        },
+        "weighted avg": {
+          "precision": 0.6064191452766301,
+          "recall": 0.6,
+          "f1-score": 0.5931140337214025,
+          "support": 500.0
+        }
+      }
+    },
+    "image_only": {
+      "accuracy": 0.358,
+      "macro_f1": 0.3247737857395933,
+      "per_class": {
+        "Art & Design": {
+          "precision": 0.25925925925925924,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.2916666666666667,
+          "support": 21.0
+        },
+        "Automobiles": {
+          "precision": 0.8125,
+          "recall": 0.8125,
+          "f1-score": 0.8125,
+          "support": 16.0
+        },
+        "Books": {
+          "precision": 0.08333333333333333,
+          "recall": 0.08695652173913043,
+          "f1-score": 0.0851063829787234,
+          "support": 23.0
+        },
+        "Dance": {
+          "precision": 0.6538461538461539,
+          "recall": 0.6538461538461539,
+          "f1-score": 0.6538461538461539,
+          "support": 26.0
+        },
+        "Economy": {
+          "precision": 0.16666666666666666,
+          "recall": 0.06666666666666667,
+          "f1-score": 0.09523809523809523,
+          "support": 15.0
+        },
+        "Education": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 6.0
+        },
+        "Fashion & Style": {
+          "precision": 0.16666666666666666,
+          "recall": 0.16,
+          "f1-score": 0.16326530612244897,
+          "support": 25.0
+        },
+        "Food": {
+          "precision": 0.5588235294117647,
+          "recall": 0.76,
+          "f1-score": 0.6440677966101694,
+          "support": 25.0
+        },
+        "Global Business": {
+          "precision": 0.5,
+          "recall": 0.2,
+          "f1-score": 0.2857142857142857,
+          "support": 10.0
+        },
+        "Health": {
+          "precision": 0.23809523809523808,
+          "recall": 0.20833333333333334,
+          "f1-score": 0.2222222222222222,
+          "support": 24.0
+        },
+        "Media": {
+          "precision": 0.17073170731707318,
+          "recall": 0.2692307692307692,
+          "f1-score": 0.208955223880597,
+          "support": 26.0
+        },
+        "Movies": {
+          "precision": 0.25,
+          "recall": 0.2692307692307692,
+          "f1-score": 0.25925925925925924,
+          "support": 26.0
+        },
+        "Music": {
+          "precision": 0.3103448275862069,
+          "recall": 0.36,
+          "f1-score": 0.3333333333333333,
+          "support": 25.0
+        },
+        "Opinion": {
+          "precision": 0.23809523809523808,
+          "recall": 0.22727272727272727,
+          "f1-score": 0.23255813953488372,
+          "support": 22.0
+        },
+        "Real Estate": {
+          "precision": 0.42857142857142855,
+          "recall": 0.5,
+          "f1-score": 0.46153846153846156,
+          "support": 24.0
+        },
+        "Science": {
+          "precision": 0.5833333333333334,
+          "recall": 0.56,
+          "f1-score": 0.5714285714285714,
+          "support": 25.0
+        },
+        "Sports": {
+          "precision": 0.6666666666666666,
+          "recall": 0.6923076923076923,
+          "f1-score": 0.6792452830188679,
+          "support": 26.0
+        },
+        "Style": {
+          "precision": 0.11764705882352941,
+          "recall": 0.08695652173913043,
+          "f1-score": 0.1,
+          "support": 23.0
+        },
+        "Technology": {
+          "precision": 0.375,
+          "recall": 0.36,
+          "f1-score": 0.3673469387755102,
+          "support": 25.0
+        },
+        "Television": {
+          "precision": 0.23076923076923078,
+          "recall": 0.24,
+          "f1-score": 0.23529411764705882,
+          "support": 25.0
+        },
+        "Theater": {
+          "precision": 0.34615384615384615,
+          "recall": 0.391304347826087,
+          "f1-score": 0.3673469387755102,
+          "support": 23.0
+        },
+        "Travel": {
+          "precision": 0.42857142857142855,
+          "recall": 0.36,
+          "f1-score": 0.391304347826087,
+          "support": 25.0
+        },
+        "Well": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 5.0
+        },
+        "Your Money": {
+          "precision": 0.6666666666666666,
+          "recall": 0.2222222222222222,
+          "f1-score": 0.3333333333333333,
+          "support": 9.0
+        },
+        "accuracy": 0.358,
+        "macro avg": {
+          "precision": 0.34382259499307216,
+          "recall": 0.3258400441145007,
+          "f1-score": 0.3247737857395933,
+          "support": 500.0
+        },
+        "weighted avg": {
+          "precision": 0.354753420591458,
+          "recall": 0.358,
+          "f1-score": 0.3502572807595836,
+          "support": 500.0
+        }
+      }
+    },
+    "early_fusion": {
+      "accuracy": 0.602,
+      "macro_f1": 0.5680027668740011,
+      "per_class": {
+        "Art & Design": {
+          "precision": 0.6521739130434783,
+          "recall": 0.7142857142857143,
+          "f1-score": 0.6818181818181818,
+          "support": 21.0
+        },
+        "Automobiles": {
+          "precision": 0.8333333333333334,
+          "recall": 0.9375,
+          "f1-score": 0.8823529411764706,
+          "support": 16.0
+        },
+        "Books": {
+          "precision": 0.5416666666666666,
+          "recall": 0.5652173913043478,
+          "f1-score": 0.5531914893617021,
+          "support": 23.0
+        },
+        "Dance": {
+          "precision": 0.76,
+          "recall": 0.7307692307692307,
+          "f1-score": 0.7450980392156863,
+          "support": 26.0
+        },
+        "Economy": {
+          "precision": 0.6666666666666666,
+          "recall": 0.5333333333333333,
+          "f1-score": 0.5925925925925926,
+          "support": 15.0
+        },
+        "Education": {
+          "precision": 0.5,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.4,
+          "support": 6.0
+        },
+        "Fashion & Style": {
+          "precision": 0.44,
+          "recall": 0.44,
+          "f1-score": 0.44,
+          "support": 25.0
+        },
+        "Food": {
+          "precision": 0.65625,
+          "recall": 0.84,
+          "f1-score": 0.7368421052631579,
+          "support": 25.0
+        },
+        "Global Business": {
+          "precision": 0.8,
+          "recall": 0.8,
+          "f1-score": 0.8,
+          "support": 10.0
+        },
+        "Health": {
+          "precision": 0.5517241379310345,
+          "recall": 0.6666666666666666,
+          "f1-score": 0.6037735849056604,
+          "support": 24.0
+        },
+        "Media": {
+          "precision": 0.40625,
+          "recall": 0.5,
+          "f1-score": 0.4482758620689655,
+          "support": 26.0
+        },
+        "Movies": {
+          "precision": 0.5806451612903226,
+          "recall": 0.6923076923076923,
+          "f1-score": 0.631578947368421,
+          "support": 26.0
+        },
+        "Music": {
+          "precision": 0.5588235294117647,
+          "recall": 0.76,
+          "f1-score": 0.6440677966101694,
+          "support": 25.0
+        },
+        "Opinion": {
+          "precision": 0.34615384615384615,
+          "recall": 0.4090909090909091,
+          "f1-score": 0.375,
+          "support": 22.0
+        },
+        "Real Estate": {
+          "precision": 0.4782608695652174,
+          "recall": 0.4583333333333333,
+          "f1-score": 0.46808510638297873,
+          "support": 24.0
+        },
+        "Science": {
+          "precision": 0.7692307692307693,
+          "recall": 0.8,
+          "f1-score": 0.7843137254901961,
+          "support": 25.0
+        },
+        "Sports": {
+          "precision": 0.8461538461538461,
+          "recall": 0.8461538461538461,
+          "f1-score": 0.8461538461538461,
+          "support": 26.0
+        },
+        "Style": {
+          "precision": 0.29411764705882354,
+          "recall": 0.21739130434782608,
+          "f1-score": 0.25,
+          "support": 23.0
+        },
+        "Technology": {
+          "precision": 0.8,
+          "recall": 0.64,
+          "f1-score": 0.7111111111111111,
+          "support": 25.0
+        },
+        "Television": {
+          "precision": 0.6842105263157895,
+          "recall": 0.52,
+          "f1-score": 0.5909090909090909,
+          "support": 25.0
+        },
+        "Theater": {
+          "precision": 0.7777777777777778,
+          "recall": 0.6086956521739131,
+          "f1-score": 0.6829268292682927,
+          "support": 23.0
+        },
+        "Travel": {
+          "precision": 0.5238095238095238,
+          "recall": 0.44,
+          "f1-score": 0.4782608695652174,
+          "support": 25.0
+        },
+        "Well": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 5.0
+        },
+        "Your Money": {
+          "precision": 0.4,
+          "recall": 0.2222222222222222,
+          "f1-score": 0.2857142857142857,
+          "support": 9.0
+        },
+        "accuracy": 0.602,
+        "macro avg": {
+          "precision": 0.5778020089337025,
+          "recall": 0.569804192888432,
+          "f1-score": 0.5680027668740011,
+          "support": 500.0
+        },
+        "weighted avg": {
+          "precision": 0.5986066426397216,
+          "recall": 0.602,
+          "f1-score": 0.595075735590887,
+          "support": 500.0
+        }
+      }
+    },
+    "majority": {
+      "accuracy": 0.042,
+      "macro_f1": 0.0033589251439539347,
+      "per_class": {
+        "Art & Design": {
+          "precision": 0.042,
+          "recall": 1.0,
+          "f1-score": 0.08061420345489444,
+          "support": 21.0
+        },
+        "Automobiles": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 16.0
+        },
+        "Books": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 23.0
+        },
+        "Dance": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 26.0
+        },
+        "Economy": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 15.0
+        },
+        "Education": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 6.0
+        },
+        "Fashion & Style": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 25.0
+        },
+        "Food": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 25.0
+        },
+        "Global Business": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 10.0
+        },
+        "Health": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 24.0
+        },
+        "Media": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 26.0
+        },
+        "Movies": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 26.0
+        },
+        "Music": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 25.0
+        },
+        "Opinion": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 22.0
+        },
+        "Real Estate": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 24.0
+        },
+        "Science": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 25.0
+        },
+        "Sports": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 26.0
+        },
+        "Style": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 23.0
+        },
+        "Technology": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 25.0
+        },
+        "Television": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 25.0
+        },
+        "Theater": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 23.0
+        },
+        "Travel": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 25.0
+        },
+        "Well": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 5.0
+        },
+        "Your Money": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 9.0
+        },
+        "accuracy": 0.042,
+        "macro avg": {
+          "precision": 0.00175,
+          "recall": 0.041666666666666664,
+          "f1-score": 0.0033589251439539347,
+          "support": 500.0
+        },
+        "weighted avg": {
+          "precision": 0.001764,
+          "recall": 0.042,
+          "f1-score": 0.0033857965451055665,
+          "support": 500.0
+        }
+      }
+    }
+  },
+  "C_selection": {
+    "text_only": [
+      {
+        "C": 0.01,
+        "val_macro_f1": 0.5767790887666031
+      },
+      {
+        "C": 0.1,
+        "val_macro_f1": 0.5224325409845948
+      },
+      {
+        "C": 1.0,
+        "val_macro_f1": 0.5129140857318281
+      }
+    ],
+    "image_only": [
+      {
+        "C": 0.01,
+        "val_macro_f1": 0.3247737857395933
+      },
+      {
+        "C": 0.1,
+        "val_macro_f1": 0.31857565605007715
+      },
+      {
+        "C": 1.0,
+        "val_macro_f1": 0.3033791393642464
+      }
+    ],
+    "early_fusion": [
+      {
+        "C": 0.01,
+        "val_macro_f1": 0.5680027668740011
+      },
+      {
+        "C": 0.1,
+        "val_macro_f1": 0.5508672468288502
+      },
+      {
+        "C": 1.0,
+        "val_macro_f1": 0.5569617343757853
+      }
+    ]
+  },
+  "delta_macro_f1": -0.008776321892602024,
+  "delta_pp": -0.8776321892602024
+}

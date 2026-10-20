@@ -1,0 +1,501 @@
+﻿id,true_label,text_only,image_only,early_fusion,majority
+val:4277:3fe6a9ba-c55e-5b9b-bf66-d0d170c3b8a9,Media,Media,Fashion & Style,Media,Art & Design
+val:5377:31cd4f52-91a0-5f47-af4e-9814464263f1,Television,Television,Television,Television,Art & Design
+val:2298:ef9be3ff-7b49-5aac-aeec-9f5b49671ded,Theater,Real Estate,Theater,Theater,Art & Design
+val:3489:364b226e-a1ed-5dd8-a34e-fc256dc8e2ce,Technology,Media,Technology,Media,Art & Design
+val:3839:d73d45fd-b9f7-5e3f-b3dd-3c088ea10768,Art & Design,Art & Design,Travel,Art & Design,Art & Design
+val:5345:31ede06a-3f50-562a-bb64-e8091d608f71,Economy,Global Business,Technology,Global Business,Art & Design
+val:205:81966692-2623-5516-989f-f7557060b8d5,Your Money,Your Money,Your Money,Your Money,Art & Design
+val:4329:89ccc76c-2414-58ca-b6cc-10a4b1c91c93,Food,Food,Food,Food,Art & Design
+val:5563:5de5cc62-d436-5cb8-a70d-e441f7153e02,Health,Health,Technology,Health,Art & Design
+val:2173:18f7de8d-d69a-52d9-a2e7-2fc6267d0f19,Art & Design,Art & Design,Music,Art & Design,Art & Design
+val:5862:3ca10012-92b5-5c35-8ad7-38640b375c45,Music,Music,Movies,Music,Art & Design
+val:375:b710b927-a5ff-53a2-8ee3-9bbed05b601f,Food,Food,Food,Food,Art & Design
+val:4337:d0631047-fb31-5f01-ab46-eacb8cc02d89,Media,Media,Books,Media,Art & Design
+val:589:10335f4c-ffe2-5ff6-93cd-135da24b88fa,Science,Science,Science,Science,Art & Design
+val:5174:1a60c80e-ca70-5e6f-bc04-6dd99d32b012,Television,Television,Movies,Television,Art & Design
+val:5468:82ded3ae-bf1e-5be0-9c34-5f6b7c48f92e,Books,Music,Music,Music,Art & Design
+val:5807:d42539a6-7941-5a5f-91ff-5b659aece478,Technology,Technology,Fashion & Style,Technology,Art & Design
+val:3808:db8fdc9e-a48e-51b1-9729-d56efe2c264a,Travel,Movies,Music,Movies,Art & Design
+val:4861:782c7f8e-d239-5fa5-a8c4-8aacff62bb3e,Books,Theater,Art & Design,Art & Design,Art & Design
+val:749:63a23856-f0c2-5e44-9ae1-1ca160bc640b,Fashion & Style,Movies,Dance,Movies,Art & Design
+val:914:3a54cfbf-cc58-566e-9b33-b5679a75dc4a,Dance,Dance,Dance,Dance,Art & Design
+val:4395:4d5164dd-8539-5767-b12f-e3bc58a7e5c5,Travel,Travel,Dance,Dance,Art & Design
+val:4834:c5c36fbc-9bb6-5f8c-bacf-9cd173524355,Style,Fashion & Style,Music,Fashion & Style,Art & Design
+val:3965:d0ca3b63-4da3-5010-8062-f658038d91dd,Food,Food,Food,Food,Art & Design
+val:4744:0baf6542-f82d-52a9-91b6-195982535b6c,Sports,Sports,Sports,Sports,Art & Design
+val:2628:52065b6e-0caa-597e-861d-5b619130b6f2,Fashion & Style,Fashion & Style,Fashion & Style,Fashion & Style,Art & Design
+val:3674:ce73bb37-21fd-5fbc-b735-7076e4666172,Television,Television,Music,Television,Art & Design
+val:1611:9c48c598-5ea8-5ce6-a381-b97b49dd1f88,Movies,Movies,Music,Movies,Art & Design
+val:3615:445f1efb-6479-5935-accc-48eb060cb83d,Books,Books,Style,Style,Art & Design
+val:2252:b2e68fbc-9ae7-58e6-b542-36a6a86e4028,Art & Design,Art & Design,Art & Design,Art & Design,Art & Design
+val:863:19aec038-2157-5fd1-9a0e-44dcf1d2ad9c,Food,Food,Food,Food,Art & Design
+val:5702:dea6e69e-f79c-5fb3-a180-227d01f8a709,Music,Opinion,Media,Opinion,Art & Design
+val:4086:6b94108d-1b1f-5c19-911d-665db09bf2cc,Sports,Science,Sports,Sports,Art & Design
+val:4419:fddbbd5a-ec10-53ce-b72f-c4cfc5ef3166,Travel,Economy,Travel,Travel,Art & Design
+val:4952:e7bf00b3-e48a-5643-ad59-6b54e4fc20ba,Travel,Art & Design,Opinion,Art & Design,Art & Design
+val:2045:64aed03d-5fd5-5c8e-b076-239d078a5ff1,Health,Food,Food,Food,Art & Design
+val:4371:405bb5d8-1f63-5338-8250-94478489434b,Sports,Media,Health,Automobiles,Art & Design
+val:2799:82625379-6f5c-5551-8456-d46ac83b867c,Health,Media,Opinion,Media,Art & Design
+val:4252:7f6e4c76-6f3c-5c4c-ab39-05f335dc14e2,Opinion,Opinion,Style,Opinion,Art & Design
+val:4675:aba394d4-ba43-547b-9762-76fc9b055076,Movies,Movies,Theater,Theater,Art & Design
+val:5415:f6369cf5-2e13-5c43-9c01-7fd6ab7a64ab,Sports,Sports,Sports,Sports,Art & Design
+val:142:c8906fef-4491-5b62-9a6d-a0aa89ee82c5,Sports,Sports,Television,Sports,Art & Design
+val:1572:96cb344b-5492-53ae-84fb-051eb3e32e8c,Style,Books,Art & Design,Books,Art & Design
+val:4291:44654f33-d7dd-5364-8989-2d17372b754d,Opinion,Opinion,Theater,Opinion,Art & Design
+val:545:6d265580-b1ca-50fb-8074-f9d3e4d603bf,Dance,Art & Design,Dance,Dance,Art & Design
+val:3750:e4c3fa13-8b6b-5e49-b814-9579f66cdb5c,Economy,Economy,Health,Economy,Art & Design
+val:1188:8813818b-bc06-5b9c-a7c2-fe25825bc1bb,Fashion & Style,Fashion & Style,Style,Fashion & Style,Art & Design
+val:4407:061e8656-ee3f-50f7-a875-fe23bd96eb0a,Television,Television,Movies,Movies,Art & Design
+val:2371:5874e814-ac56-537e-876d-282b3cc65e94,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:5727:0402f8ac-62ab-5156-b01f-67f0dc166159,Music,Movies,Health,Movies,Art & Design
+val:917:c02fe2aa-e04e-5669-888e-64e7e5ef817f,Music,Art & Design,Dance,Dance,Art & Design
+val:1762:475a0f5f-82cb-5217-8d08-eaed29c16656,Real Estate,Food,Real Estate,Real Estate,Art & Design
+val:1073:cf781dd3-5d7c-5004-8026-14a027a57de6,Economy,Health,Media,Media,Art & Design
+val:3753:573a1f3b-3923-50e7-b10d-26fd8a429ef1,Real Estate,Real Estate,Real Estate,Real Estate,Art & Design
+val:1811:40ea5287-bfe9-54c2-8032-f09f8f089d2e,Media,Media,Movies,Media,Art & Design
+val:554:c91120f2-4041-5852-b21f-dac9a3eb46a7,Television,Fashion & Style,Sports,Fashion & Style,Art & Design
+val:4734:5809745f-1b4b-59a0-8058-ac750dc98aab,Music,Music,Media,Music,Art & Design
+val:1570:0933d534-8c65-5e8e-b2b4-daeea6f03e2b,Books,Books,Sports,Books,Art & Design
+val:6042:276aa28e-3ab8-5dfd-a5d8-68ada5b32cd6,Health,Food,Food,Food,Art & Design
+val:1296:44a6b103-403a-5f3a-ad3f-2c3607f37b7f,Dance,Dance,Dance,Dance,Art & Design
+val:4812:38aaa284-3597-5bd2-87cf-3895f90ce978,Travel,Real Estate,Travel,Travel,Art & Design
+val:185:6b3800d7-2a1e-55ec-9fa3-1ea9c7e14126,Technology,Technology,Technology,Technology,Art & Design
+val:2460:57d28039-52f4-5bbb-92d5-dedd6c391e4b,Movies,Movies,Art & Design,Movies,Art & Design
+val:5146:d8f9c1aa-42ed-5a5c-b77b-954a58eb7260,Movies,Movies,Television,Movies,Art & Design
+val:729:c549cd3e-228a-5c86-8996-a611398200da,Dance,Music,Dance,Dance,Art & Design
+val:5335:c414058a-c6fa-52d7-a731-8b957437aec0,Travel,Travel,Food,Food,Art & Design
+val:1672:1cad6c01-aa64-5341-828f-6b6d824f923d,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:5911:2964a89f-e7de-584a-bcfc-ec0959bd26c6,Style,Art & Design,Art & Design,Art & Design,Art & Design
+val:654:6c5da21b-5b75-54f0-b92d-dcd24dc9df8f,Sports,Sports,Sports,Sports,Art & Design
+val:5018:fae0da96-a91a-514a-b5be-0c777f773370,Education,Science,Economy,Health,Art & Design
+val:5653:abcd6ea4-5130-5828-9819-c02bfb9db67c,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:3246:c75666cf-a3bd-56a4-967d-8cff0032efd8,Movies,Movies,Movies,Movies,Art & Design
+val:2308:60619c5c-b9c5-5bd1-9d67-cc3332a738f5,Opinion,Technology,Music,Opinion,Art & Design
+val:5671:646d0edb-1150-5b31-af57-5282ad39dccb,Economy,Economy,Fashion & Style,Economy,Art & Design
+val:3953:f47e1b8f-68f3-5f7f-9c48-715d0b42d0c0,Real Estate,Real Estate,Music,Real Estate,Art & Design
+val:1622:1f3394db-a507-5fcb-af39-4410df8c2d74,Real Estate,Real Estate,Media,Media,Art & Design
+val:3527:fed9f003-ddc3-5773-a6b2-faf997057ce8,Economy,Economy,Books,Economy,Art & Design
+val:5744:6a774a57-a736-5165-b13b-4afbf87604cd,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:225:7bdd8874-cc41-504e-9ed7-5a1bfecd5d35,Technology,Media,Media,Media,Art & Design
+val:1462:1870748a-b49c-565f-9d13-b68b1ef41edf,Movies,Books,Books,Books,Art & Design
+val:3224:01980a3a-8c4f-504e-9860-8f0450b12cf3,Art & Design,Style,Art & Design,Art & Design,Art & Design
+val:1718:eba9da8a-882c-50ec-a8e6-1d2241a79226,Dance,Dance,Books,Dance,Art & Design
+val:4202:0cedee81-53f0-509b-9b82-61e2fa175fe4,Theater,Media,Fashion & Style,Theater,Art & Design
+val:3278:051fc6b5-47f9-57cc-8739-e8c0c3c93ade,Dance,Style,Dance,Dance,Art & Design
+val:1507:933b389e-2809-528b-9b32-02faa3ee537d,Music,Music,Automobiles,Music,Art & Design
+val:5613:56aeb1de-cba8-508d-9a33-13621efe466a,Sports,Sports,Sports,Sports,Art & Design
+val:2211:c7ac9a32-8a0b-534e-81d1-25d000a223ed,Music,Music,Music,Music,Art & Design
+val:5208:94008fe7-5419-523d-a78a-f1af33591205,Health,Health,Books,Health,Art & Design
+val:3967:08ddf975-c988-5840-b65d-07b28dd1ec68,Science,Science,Science,Science,Art & Design
+val:5622:0b0a5f2a-b16a-578f-9033-2a9a575e639c,Food,Science,Food,Food,Art & Design
+val:4340:34d70af1-c217-5af8-a221-8684ec48d6a7,Books,Your Money,Art & Design,Travel,Art & Design
+val:649:19d50c8c-5231-5833-819c-b40ea348d3cd,Real Estate,Real Estate,Real Estate,Real Estate,Art & Design
+val:4968:07a3e0cb-04df-5f19-ab48-19c6dc754bb3,Health,Health,Health,Health,Art & Design
+val:18:e3043a32-801f-5010-b93b-20d6a60a414e,Education,Sports,Real Estate,Real Estate,Art & Design
+val:4422:9068f82a-c623-5f6b-b9a0-accecfe9be5c,Sports,Sports,Sports,Sports,Art & Design
+val:284:ef184362-6cf7-5576-a4b2-5b8570e83095,Global Business,Global Business,Style,Global Business,Art & Design
+val:2916:ad1aa78a-3688-527a-9a8f-6a77deb9d61b,Style,Food,Theater,Food,Art & Design
+val:1273:9a56d12d-60a2-579e-8a98-75624daefa60,Dance,Dance,Dance,Dance,Art & Design
+val:116:759c6f12-9b89-556c-823d-d348c1c93c72,Opinion,Opinion,Television,Opinion,Art & Design
+val:1367:b0caf652-44ad-550e-b265-717468c6a145,Dance,Style,Dance,Dance,Art & Design
+val:1674:5365a7f9-2a38-5d2e-b601-c23d7ee377b3,Fashion & Style,Health,Technology,Health,Art & Design
+val:3178:de48edac-b798-5f90-88a2-ff97a59c653e,Fashion & Style,Food,Fashion & Style,Fashion & Style,Art & Design
+val:3939:fcf69581-bfa6-5bd7-8903-43c9f5509483,Dance,Music,Dance,Dance,Art & Design
+val:1535:a785f601-08f7-50d7-b65c-cb3887f5cfba,Sports,Sports,Television,Health,Art & Design
+val:1003:d2e960da-639d-5fd0-8fc4-054dd4ca4e24,Fashion & Style,Sports,Television,Music,Art & Design
+val:5766:50180268-a171-502d-afec-112fac677576,Media,Media,Theater,Health,Art & Design
+val:2668:5df3d6ce-527c-57f2-9ef4-ccaa4d81f8e3,Dance,Dance,Dance,Dance,Art & Design
+val:1161:3d90d6f2-c56e-5642-a213-6ed7a0d41a5c,Books,Opinion,Opinion,Opinion,Art & Design
+val:2866:9fd06ea3-187f-54fd-a61e-3cba6732fa01,Theater,Theater,Theater,Theater,Art & Design
+val:3370:568e45f0-e3aa-5dfd-a591-ff1d0d320279,Theater,Theater,Media,Theater,Art & Design
+val:1853:0204be54-d817-52de-a51f-b6fc386faf5b,Opinion,Opinion,Opinion,Opinion,Art & Design
+val:803:3ff97a64-05b3-59ba-9d80-a0e8a84e519e,Media,Media,Television,Media,Art & Design
+val:5827:f971f6a6-d43a-58f9-ad69-698202ea835f,Books,Books,Media,Books,Art & Design
+val:4011:dd8519a1-5b39-5cf6-9ea0-103bbba15a11,Well,Opinion,Media,Opinion,Art & Design
+val:5701:91e79f5b-93f3-5041-9637-adf00fd71024,Media,Media,Opinion,Technology,Art & Design
+val:4842:62d4c9bf-4fd4-5eb3-a78b-3223657c0697,Books,Books,Media,Books,Art & Design
+val:2435:8295720d-5af6-52c3-8833-d2317d514f3a,Fashion & Style,Style,Fashion & Style,Style,Art & Design
+val:2020:d2b1458c-bb02-535f-a368-8a87c1e0cf78,Your Money,Travel,Economy,Travel,Art & Design
+val:4831:418383d8-a398-5477-ab45-98c3291d3433,Real Estate,Real Estate,Health,Fashion & Style,Art & Design
+val:3781:70943ac6-6d3f-55e6-9b0a-1f9710834aab,Fashion & Style,Style,Movies,Fashion & Style,Art & Design
+val:4304:6d91994e-3c5e-5cf2-82ec-8b4690681666,Food,Food,Style,Style,Art & Design
+val:4120:92a3e38e-f16a-50dc-a211-07044b148a61,Technology,Opinion,Media,Opinion,Art & Design
+val:279:b0a0b840-8fc7-5c23-89d9-6f2cd4749580,Theater,Dance,Dance,Dance,Art & Design
+val:5982:111fa5a3-4ba5-5ca3-98d9-c1df16214b40,Fashion & Style,Style,Movies,Fashion & Style,Art & Design
+val:564:d6d1d524-dac5-5143-b853-22228250ae9e,Travel,Travel,Travel,Travel,Art & Design
+val:1259:7fb153c4-dd47-5f16-90ce-9911ceda1526,Movies,Books,Media,Books,Art & Design
+val:5928:9a624d13-def6-5829-96a4-90a7c0499cca,Style,Media,Media,Media,Art & Design
+val:565:699d3734-4220-5a1d-8dce-dced6e9632e0,Media,Opinion,Art & Design,Opinion,Art & Design
+val:2177:6b5bfba5-b93e-5e0e-9573-a789004379af,Theater,Theater,Style,Theater,Art & Design
+val:2710:22ee1e9e-ade8-59fa-83ff-1ea3116b1aa1,Global Business,Travel,Dance,Global Business,Art & Design
+val:4101:91d659aa-1a8c-5013-b773-b8b935616ef5,Television,Movies,Music,Television,Art & Design
+val:1480:5848c356-48a3-5c92-b968-4a3d4040ba6b,Television,Style,Theater,Style,Art & Design
+val:4185:8b5a7e1f-c61c-5a3e-b20a-913e057f0d45,Education,Education,Global Business,Education,Art & Design
+val:969:1727cfb3-16bc-510d-96c6-c311ae99feb5,Science,Science,Music,Science,Art & Design
+val:158:fd71f0-cfd0-564b-a548-1e0184c6bca5,Fashion & Style,Fashion & Style,Movies,Fashion & Style,Art & Design
+val:2096:74b5e4a8-6dbc-5b76-8d4d-fda69222d1be,Theater,Theater,Theater,Theater,Art & Design
+val:335:0b657060-b73d-5df1-a355-111ca627ab22,Music,Art & Design,Music,Music,Art & Design
+val:3619:b3323928-9d59-52a5-9b48-b2d7930dc918,Art & Design,Art & Design,Art & Design,Art & Design,Art & Design
+val:5474:1f31f6e2-ee14-5504-980d-4255d796cc8c,Science,Science,Travel,Science,Art & Design
+val:1896:98976032-1e51-5a33-a9b4-37cc32cb06f6,Food,Food,Food,Food,Art & Design
+val:823:24879d0f-d51b-52fa-9dfc-134669888321,Your Money,Your Money,Sports,Opinion,Art & Design
+val:1534:0d1ddced-8fc4-51f0-b4ce-4e07881a8004,Art & Design,Art & Design,Theater,Art & Design,Art & Design
+val:2481:2b7b4233-5aba-52ba-a679-6fbb1f695cde,Real Estate,Real Estate,Real Estate,Real Estate,Art & Design
+val:4436:6ae5d04f-b306-5557-8dc9-2f248bdb6a64,Style,Technology,Style,Style,Art & Design
+val:4265:37621a65-7085-5f3c-9bb5-ab8754ceacf0,Sports,Sports,Style,Sports,Art & Design
+val:2685:d5a29007-77d9-51d3-99a6-9eff708aeec7,Books,Theater,Movies,Books,Art & Design
+val:356:49e0e571-50e9-5a2d-b6c7-1cf1dbc25a73,Fashion & Style,Fashion & Style,Health,Fashion & Style,Art & Design
+val:2083:b6fd0b5d-d290-52f6-ad72-2b7b3743e360,Opinion,Economy,Theater,Opinion,Art & Design
+val:268:280190fa-fc98-5edf-8111-dd4bcb9a52d5,Media,Opinion,Media,Opinion,Art & Design
+val:3280:9cd7db4d-25a8-524e-abb5-13ee17b0508c,Science,Science,Well,Fashion & Style,Art & Design
+val:4130:e591eece-f281-5f62-a827-284d8353fce2,Global Business,Economy,Global Business,Economy,Art & Design
+val:5477:aa14d66f-d160-5ffd-b696-8f8a051e547f,Technology,Technology,Opinion,Media,Art & Design
+val:1965:653d63d0-5610-579f-9ddf-481abbf6fe36,Well,Food,Opinion,Opinion,Art & Design
+val:3782:de43d0e9-76e8-5831-bdde-3c45256a56a7,Global Business,Global Business,Global Business,Global Business,Art & Design
+val:2149:0b0bb16b-4ec5-5e86-ae2f-4d6a28af7cb7,Technology,Technology,Sports,Technology,Art & Design
+val:916:0caf65cd-a531-5171-bdcb-a6668ac47640,Economy,Health,Real Estate,Health,Art & Design
+val:5489:f597b427-0a39-557b-97ea-8a1e0e9992fb,Science,Science,Food,Science,Art & Design
+val:585:528eb185-9ca9-527a-9993-d13fdfbb5cd7,Media,Media,Media,Media,Art & Design
+val:2254:f19bf333-11ee-53b4-8a60-b72231c7ce26,Global Business,Global Business,Television,Global Business,Art & Design
+val:4569:fad14353-11d8-5253-b6a2-e9e82db62339,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:350:b9a05799-1639-54bb-933b-1ae43d7ea78f,Music,Music,Music,Music,Art & Design
+val:992:87359109-2780-51de-a26f-14215189b7d5,Television,Media,Television,Television,Art & Design
+val:4364:366db3d7-9ffa-5b32-a2f1-1f1e3acced6c,Music,Music,Sports,Sports,Art & Design
+val:4065:da7fd5ec-d181-5cc5-89e8-34b760e2d380,Sports,Sports,Sports,Sports,Art & Design
+val:5667:0ad8ca59-b70a-5fa7-91ff-ed77471f7710,Real Estate,Real Estate,Travel,Travel,Art & Design
+val:3171:8e53b7b5-fbb6-5901-9faa-ef84fff4fe4a,Food,Books,Fashion & Style,Books,Art & Design
+val:953:77c50421-21e1-55cc-972a-445ef2ccb689,Opinion,Opinion,Media,Opinion,Art & Design
+val:298:d0d1fdba-3e5c-569b-8d1b-380bd9cae03d,Media,Media,Media,Media,Art & Design
+val:4908:ce3888fe-a3d3-51d4-8487-3a27f2b90318,Health,Health,Health,Health,Art & Design
+val:208:1e0316ee-8a49-5ac6-bf95-62b2aca8c00f,Health,Health,Media,Health,Art & Design
+val:3400:65042cc6-080d-5141-b116-2a92dc606572,Television,Television,Television,Television,Art & Design
+val:2274:241749bd-34bb-5822-9b85-e8acbacfec1b,Technology,Media,Art & Design,Media,Art & Design
+val:1821:274e1754-f10a-562b-9f8a-0eaa7799f0df,Music,Dance,Theater,Music,Art & Design
+val:4500:1035c9a3-0aa8-506e-8969-4f96fc13cca4,Travel,Travel,Technology,Travel,Art & Design
+val:5818:c12150ba-4d61-5006-ac5d-3d5ac3d625ab,Real Estate,Real Estate,Real Estate,Real Estate,Art & Design
+val:6002:b7adfaae-cadf-592a-92ef-c996ec7123d3,Television,Television,Theater,Television,Art & Design
+val:4724:82a7e0b0-290d-5dbc-810c-3337d81aa95e,Dance,Fashion & Style,Media,Fashion & Style,Art & Design
+val:1516:8452c8c9-0900-5f11-9832-9a8b885fb940,Opinion,Books,Sports,Education,Art & Design
+val:1049:83109f0d-2efb-52a7-b502-efe649eab373,Real Estate,Style,Food,Food,Art & Design
+val:2774:d7179392-56d1-54f3-9397-482c472feea9,Global Business,Movies,Travel,Global Business,Art & Design
+val:724:f7ce0f2f-a7a8-5cae-93a7-b5ca36dc31c5,Opinion,Media,Economy,Television,Art & Design
+val:5063:0b74b956-266d-5b85-aa3f-c3f27933c144,Real Estate,Real Estate,Real Estate,Real Estate,Art & Design
+val:5029:3855c14b-b254-58a8-b9e1-ff028075f7fd,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:4443:12cbf32a-2d97-5e75-99e5-1c65865f0b66,Travel,Art & Design,Travel,Art & Design,Art & Design
+val:3356:b58fb0a2-87df-5f15-919d-a78f53b97408,Real Estate,Fashion & Style,Food,Food,Art & Design
+val:4144:bfaf6832-6b98-55b2-a058-db302b1ee842,Fashion & Style,Opinion,Opinion,Opinion,Art & Design
+val:5523:72b70c1c-d60a-5b87-9d70-4ec3640a9ef0,Style,Style,Art & Design,Art & Design,Art & Design
+val:2967:6dd50cdc-e878-5214-9c00-cd38216bbdd4,Media,Music,Fashion & Style,Music,Art & Design
+val:2641:996d90bf-608d-53c7-ad8b-590ee5668361,Opinion,Movies,Opinion,Television,Art & Design
+val:4099:d67bd567-179b-502a-a68d-d96f7020a281,Movies,Movies,Books,Movies,Art & Design
+val:4898:479f9d06-a878-5f57-95cf-76a18050cade,Theater,Theater,Real Estate,Movies,Art & Design
+val:5887:bf7bf7fe-0eeb-5a08-831c-8c160e181e62,Fashion & Style,Style,Sports,Sports,Art & Design
+val:2465:46400127-cccd-5f7c-9ddc-f82cf581f45a,Science,Science,Health,Science,Art & Design
+val:1922:b687870d-215d-5194-83c1-9e5fcda13915,Books,Books,Media,Books,Art & Design
+val:1146:a7eea51d-e460-5d13-9f7b-caec216425e1,Food,Food,Food,Food,Art & Design
+val:3078:74eba67b-0c4a-5cfc-83f6-c4aea4ff77d5,Theater,Theater,Fashion & Style,Media,Art & Design
+val:2276:1f11b3a4-70c9-5121-a610-e7af91aafe48,Food,Food,Food,Food,Art & Design
+val:5685:c9a5a543-c429-5dbc-8478-45334fb67883,Dance,Fashion & Style,Dance,Dance,Art & Design
+val:1522:77256b12-5d4c-548f-9d23-a2e8347eb275,Dance,Dance,Movies,Music,Art & Design
+val:2947:b360b8ca-ce4d-5348-8b07-d444fb064150,Your Money,Real Estate,Art & Design,Your Money,Art & Design
+val:388:c88ef24e-c936-5d38-ac67-020ed586af21,Science,Style,Science,Style,Art & Design
+val:891:c5885943-225a-5859-9268-cfa232de906a,Health,Health,Automobiles,Opinion,Art & Design
+val:3099:6b99709f-6071-55d8-b809-49cc0c5c358f,Music,Theater,Media,Music,Art & Design
+val:475:43c004f4-633f-5a9d-a9b6-6889931eb564,Opinion,Automobiles,Opinion,Books,Art & Design
+val:4343:e7b37f9a-af21-50a9-9ea2-988dd6acf7f0,Movies,Books,Books,Books,Art & Design
+val:890:8c9eab99-0897-5dfa-88c9-e64ab04f6f90,Technology,Media,Technology,Technology,Art & Design
+val:4194:de89b962-9f0f-5ed6-b5df-904834a9427d,Media,Media,Opinion,Television,Art & Design
+val:2415:d84adfd9-0e65-5090-883b-2f7a67bbad2a,Science,Science,Science,Science,Art & Design
+val:530:29cb76d4-ebda-5bfc-9117-0da30be4416d,Music,Music,Music,Music,Art & Design
+val:3339:79557e5f-75d3-503b-8bbd-0de064150b9d,Books,Books,Books,Books,Art & Design
+val:926:d4ad470c-722e-5b82-9e1b-37ce00b24325,Sports,Sports,Sports,Sports,Art & Design
+val:875:479464ef-29b1-5943-be49-09d42c63a2d5,Economy,Economy,Art & Design,Opinion,Art & Design
+val:4480:c32bfe9d-fa85-50d6-ba84-c00266671364,Media,Media,Theater,Media,Art & Design
+val:2209:90adb0f6-ce85-5dc8-9471-86ad9e78dc10,Food,Food,Travel,Travel,Art & Design
+val:393:b4314d34-47e3-55fe-b1af-b1d46c6d9ac4,Fashion & Style,Media,Media,Media,Art & Design
+val:3727:a7d9602c-7be6-54f7-b759-a84983379359,Dance,Travel,Dance,Dance,Art & Design
+val:4988:5f953114-6e3f-5bc5-9787-994ce7fa13a1,Music,Music,Technology,Theater,Art & Design
+val:641:3db3f395-0d14-5b8a-a3e5-8b15ccbc7baa,Fashion & Style,Food,Art & Design,Fashion & Style,Art & Design
+val:1401:8336b4ce-2c84-5917-867a-42b525a228d6,Science,Science,Science,Science,Art & Design
+val:5552:c87aff81-24a0-5fa7-884b-6ba3932c9c26,Style,Food,Sports,Style,Art & Design
+val:4661:2e3d368f-7529-5298-960c-27168a6f6fa6,Theater,Theater,Music,Music,Art & Design
+val:1055:40b145f6-fe89-575b-8850-7523d5594bf4,Science,Science,Food,Science,Art & Design
+val:2829:6e32c6e8-aa4b-5170-a977-5a0df4cabbb3,Economy,Opinion,Television,Economy,Art & Design
+val:3119:4805a842-81e1-5313-b0e1-acd333e0c5d4,Technology,Technology,Technology,Technology,Art & Design
+val:2466:693f22e3-475e-576c-96ab-268af060260d,Economy,Economy,Economy,Economy,Art & Design
+val:5107:9cd62644-06b4-57d8-b4ea-6b062c9247e4,Opinion,Opinion,Dance,Opinion,Art & Design
+val:5738:361c06ad-afc4-5187-95f1-f2c14b96400a,Travel,Style,Food,Food,Art & Design
+val:2524:6a03306f-c7cc-59a6-b523-5976f9ba51c7,Style,Your Money,Books,Books,Art & Design
+val:2764:dfab04c1-b508-5fd2-a309-d44587c291f5,Television,Television,Television,Television,Art & Design
+val:3413:2249b9d7-1ea5-54ae-9c17-e019621c3629,Automobiles,Television,Science,Science,Art & Design
+val:1023:0dc416c6-5bfb-5c17-bdd2-54d97f1f357a,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:3366:82e9f15f-1bac-5ab4-93c4-8f329b044727,Sports,Travel,Sports,Sports,Art & Design
+val:1894:324e1563-1a05-533b-a4e8-76205957d974,Economy,Economy,Movies,Economy,Art & Design
+val:600:3960d07e-e44c-58d2-8af8-bf942cca141e,Health,Health,Science,Science,Art & Design
+val:569:f03f5487-d42b-5023-8ec4-ad23baf19ed2,Global Business,Global Business,Media,Global Business,Art & Design
+val:688:084c0e74-6b14-5ee8-b6ff-272f56eee52c,Fashion & Style,Fashion & Style,Fashion & Style,Fashion & Style,Art & Design
+val:1576:2af3b66f-2920-5b8a-a274-f9e9ee6c8e8b,Sports,Sports,Sports,Sports,Art & Design
+val:299:b675d839-e8c0-5746-b486-92762ab22887,Technology,Technology,Your Money,Technology,Art & Design
+val:2410:6edda037-56b4-5d90-aba1-027fdea783d9,Your Money,Sports,Sports,Sports,Art & Design
+val:2976:2ea66a52-545d-5378-9daf-3817f948b23f,Food,Food,Food,Food,Art & Design
+val:5429:d3545ad9-b542-527a-962f-028957f91bc1,Movies,Television,Television,Television,Art & Design
+val:4986:c8e77e27-af98-5414-be29-abdc5be8607b,Media,Media,Science,Technology,Art & Design
+val:5068:2127092e-38cf-508d-be49-24b2ccfa0566,Movies,Movies,Movies,Movies,Art & Design
+val:1233:ee7f7543-3f58-5fa6-af49-ae76cd12c52f,Media,Books,Media,Movies,Art & Design
+val:4630:7401253b-75c7-531b-9a55-11d19cc999bb,Real Estate,Fashion & Style,Real Estate,Travel,Art & Design
+val:6038:8607dd6f-6fcc-595f-b7f7-ced4ab485d96,Sports,Sports,Sports,Sports,Art & Design
+val:1072:713557c2-696d-5867-bb17-0579173872da,Movies,Movies,Movies,Movies,Art & Design
+val:5212:31a7cff9-ea63-5dc9-adde-f25ae67d729b,Style,Fashion & Style,Fashion & Style,Fashion & Style,Art & Design
+val:1227:0fccfeee-ecb3-5ccb-b463-892238809cb0,Travel,Travel,Travel,Travel,Art & Design
+val:2383:dde5a7cd-f53e-504c-8965-8f32e41d6466,Opinion,Art & Design,Technology,Real Estate,Art & Design
+val:1422:035cc360-38cf-5d1c-a96a-c4dfdbe61c38,Health,Health,Music,Health,Art & Design
+val:3790:efcb1f37-6e94-59de-b596-814c8641aaaa,Theater,Travel,Television,Opinion,Art & Design
+val:4078:74513f1d-197c-5c9f-af24-fe34e3643766,Technology,Your Money,Technology,Technology,Art & Design
+val:2005:6549e5af-79b6-569d-af4c-8fbf1d14796a,Well,Food,Books,Books,Art & Design
+val:3593:73152d83-9a2b-5d36-81e8-67d812df1180,Theater,Dance,Music,Music,Art & Design
+val:3062:64df941d-b4bf-56bb-aa97-63d7e5e3b23f,Science,Science,Science,Science,Art & Design
+val:5836:a08775ab-5a52-5016-8608-4f959f09f060,Opinion,Art & Design,Opinion,Fashion & Style,Art & Design
+val:526:3d74f3e6-b967-5bb4-9909-7e2044c46379,Movies,Movies,Television,Movies,Art & Design
+val:5503:df1e6c93-86fc-5c2d-b0dd-dea30edec5a9,Sports,Sports,Sports,Sports,Art & Design
+val:3651:e913e8b2-48a0-5a55-9535-3654d62f09eb,Style,Books,Travel,Style,Art & Design
+val:5707:96fdfd71-93ef-5b2e-b114-0667c68f7e25,Travel,Art & Design,Real Estate,Real Estate,Art & Design
+val:1080:93cfdb1a-ee4c-55fc-a6ed-b8b52689e9fa,Technology,Technology,Media,Technology,Art & Design
+val:488:5d8e2ad7-5fc5-5d1b-9ef1-6c31e7fc5926,Art & Design,Art & Design,Television,Art & Design,Art & Design
+val:3009:c606dc17-6170-56b6-868c-7aefcaa2ad1d,Science,Art & Design,Science,Science,Art & Design
+val:3530:de1e313f-5acf-53c7-a460-1c1a56b1f02f,Fashion & Style,Music,Theater,Theater,Art & Design
+val:5668:bfdbf9a6-641e-5b77-8b82-7c1d96ab2e12,Theater,Global Business,Theater,Theater,Art & Design
+val:1328:017de27e-6646-5682-bd14-2db75b08acb2,Books,Media,Music,Books,Art & Design
+val:2587:bdf00459-7e56-581b-a288-5d301155f3c1,Television,Television,Media,Television,Art & Design
+val:1266:a8c5b069-9a30-549c-9b53-74b316aeae37,Food,Food,Food,Food,Art & Design
+val:4710:b39906df-c983-5a48-aa4f-c295600bc622,Travel,Travel,Real Estate,Travel,Art & Design
+val:5235:6a4c92e7-b7a6-53de-959f-15b508f7c3ac,Real Estate,Media,Books,Media,Art & Design
+val:5020:f2c81223-4e51-5821-9ade-0f2acc598e6f,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:3663:cacdc7ec-1f32-5356-b5ab-0622026cc4b8,Food,Food,Food,Food,Art & Design
+val:1589:82109157-924a-5799-9448-1fe225a09e9c,Style,Music,Music,Music,Art & Design
+val:3884:f5521072-1736-5dc4-97e1-550b3f85e2c6,Your Money,Economy,Books,Economy,Art & Design
+val:3417:520fe38c-d5a3-5ef8-b488-42ccb19bbc04,Opinion,Health,Fashion & Style,Health,Art & Design
+val:1216:742dc1de-aa7a-5f31-8537-692ae60bc151,Economy,Real Estate,Fashion & Style,Fashion & Style,Art & Design
+val:3069:14f50774-6315-58b1-bed3-e3058f3b07b1,Media,Books,Health,Books,Art & Design
+val:305:de9c89ed-59de-5226-9389-b301330232c1,Movies,Movies,Television,Movies,Art & Design
+val:5193:75395ace-a1d0-5604-aecd-5467c7d6929f,Science,Health,Movies,Health,Art & Design
+val:852:464e1c72-0200-5d1f-92e6-c1d7f9817a8a,Science,Science,Science,Science,Art & Design
+val:2283:085cae53-f7b7-5679-a0ef-1a09ce59ae11,Economy,Economy,Television,Economy,Art & Design
+val:1649:46f5864c-08c3-5e0a-8494-cad44f04ec7a,Style,Style,Fashion & Style,Style,Art & Design
+val:1088:27bf10e4-fd4c-5928-8833-f82127124770,Education,Real Estate,Real Estate,Real Estate,Art & Design
+val:5712:0a87e663-e9c0-5110-a657-d11da4428023,Technology,Economy,Opinion,Opinion,Art & Design
+val:3509:7c77df11-c2d3-554c-95fa-01a3fbe5f547,Health,Real Estate,Real Estate,Real Estate,Art & Design
+val:458:fbe9c31d-91b9-5b62-b076-f8dd7781fcab,Television,Real Estate,Television,Style,Art & Design
+val:4534:86b57571-5004-5d3f-bf17-d36cc51676fb,Travel,Travel,Travel,Travel,Art & Design
+val:2321:14b92b4d-c652-57f2-b599-14b3cdcfb9c4,Economy,Media,Media,Media,Art & Design
+val:5596:cf2156ea-3870-5d19-a379-9d29087e2635,Dance,Fashion & Style,Health,Fashion & Style,Art & Design
+val:887:f0b9eaf5-0c5e-5f4e-9eaa-878002d66405,Art & Design,Art & Design,Music,Art & Design,Art & Design
+val:2073:888cf615-f203-548e-b275-491d603058eb,Movies,Fashion & Style,Movies,Travel,Art & Design
+val:3969:3a3d41c3-4049-56e9-82f0-5f51a4909020,Theater,Theater,Education,Music,Art & Design
+val:3526:8b730b9a-35ec-5734-8f82-69b4ced98777,Music,Music,Style,Music,Art & Design
+val:5739:ec02823f-b76d-544c-9ab0-e03286640773,Television,Science,Music,Music,Art & Design
+val:421:a8cc04b3-b857-5cdb-ba39-cd47c2b7baed,Sports,Sports,Sports,Sports,Art & Design
+val:5848:53a5f83d-9c7f-5491-a69a-56e686fb4751,Movies,Movies,Movies,Movies,Art & Design
+val:4620:c815c645-7e30-52c8-af31-2a671ac7a52e,Travel,Travel,Travel,Real Estate,Art & Design
+val:101:c076e587-4341-53f4-9367-c2e96e7c1355,Media,Media,Media,Media,Art & Design
+val:1792:f4c3ed0c-9ad9-558d-8555-20a6b5259ef9,Education,Education,Movies,Television,Art & Design
+val:444:72207af6-c761-51af-88c5-ac929b115839,Dance,Dance,Dance,Dance,Art & Design
+val:5421:f076a76c-159b-5f46-8b58-2e56af95ed7b,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:3421:4ff93f6d-b5ac-5d56-a6ed-8bd98ab826c4,Movies,Movies,Movies,Movies,Art & Design
+val:3385:f1acf128-3992-5a9b-b510-b1f274add960,Your Money,Movies,Your Money,Music,Art & Design
+val:1138:97a8e714-f4e9-5c0b-8baa-613c0652dd03,Style,Your Money,Art & Design,Opinion,Art & Design
+val:6091:6fa7ea7d-23c4-5aa8-a93a-cc001f196a50,Food,Food,Food,Food,Art & Design
+val:1148:4f0c24c4-57c7-5e9a-a098-1528f18a29e3,Books,Books,Media,Books,Art & Design
+val:1127:a31c2be3-b2fb-5c6d-b5e3-85be01878f09,Television,Television,Health,Movies,Art & Design
+val:4605:dfba1f9f-4ed1-5319-9044-66bfa60bd41b,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:1634:4e2ab299-58fb-52e3-84aa-b557a2d75a96,Global Business,Economy,Technology,Economy,Art & Design
+val:4966:7fa5172a-44f7-5aee-b8a0-a05721722c2f,Food,Food,Food,Food,Art & Design
+val:5121:e341b00b-cc78-5e76-b573-c20a9c413f91,Technology,Technology,Travel,Technology,Art & Design
+val:4823:8eb83095-e267-53df-ada1-d081acffcae2,Music,Music,Theater,Music,Art & Design
+val:3456:461d2a33-bbad-5051-af3e-71573ca0b149,Opinion,Books,Books,Books,Art & Design
+val:4769:8bd80b2a-fae1-56a4-acf1-184eca0088a4,Art & Design,Art & Design,Travel,Global Business,Art & Design
+val:2951:a2cff733-914b-519f-9161-35fdd02aaa43,Real Estate,Real Estate,Real Estate,Real Estate,Art & Design
+val:571:7ba92b46-7a0d-5eca-b9c5-190d26dbc2c8,Art & Design,Art & Design,Art & Design,Art & Design,Art & Design
+val:4031:10d02fe2-7527-5a85-855b-47c6e3b680f0,Travel,Art & Design,Art & Design,Art & Design,Art & Design
+val:1685:2d134e2c-4909-5862-926b-c2cd6c0e9213,Media,Media,Real Estate,Media,Art & Design
+val:1016:1bc2e332-aaa3-57b9-8a8b-f84ced7eb38f,Education,Education,Television,Education,Art & Design
+val:670:6b9b2a9b-4b61-542a-92d4-7708c2ffe7e1,Style,Books,Real Estate,Real Estate,Art & Design
+val:3021:d31b1e4c-dc1c-55f0-ba79-8950c81710da,Real Estate,Real Estate,Real Estate,Real Estate,Art & Design
+val:2540:b590a30a-be1f-52f1-9eaa-1640089ba956,Television,Television,Movies,Movies,Art & Design
+val:4425:73cba28e-2d98-5e38-91cf-38fd26374139,Movies,Movies,Travel,Fashion & Style,Art & Design
+val:3937:09a6e561-c694-5d7e-b9b3-0496b762ea38,Dance,Dance,Books,Music,Art & Design
+val:3617:1a0c73eb-6332-5d4f-a195-1ea9c6b2379c,Travel,Opinion,Science,Travel,Art & Design
+val:5788:aa4859be-ba28-5949-8a4b-79b3da43ba4c,Style,Style,Science,Style,Art & Design
+val:5480:16ed1ee6-5566-56e6-9b90-11df12da7d39,Global Business,Economy,Technology,Global Business,Art & Design
+val:5603:750acd90-cd40-58a6-9cc5-dd12b282b587,Theater,Health,Theater,Theater,Art & Design
+val:5872:c977488e-a40a-5a3e-9112-e510ce96a445,Sports,Sports,Style,Sports,Art & Design
+val:6112:17c5e6ae-ce20-5c2a-97ca-97baf30f5781,Food,Food,Food,Food,Art & Design
+val:1381:d5409b93-e666-531b-9dd3-01a38c3a28a5,Health,Health,Travel,Health,Art & Design
+val:5362:ae60805f-7dbd-5047-8706-a7e9f1f23461,Sports,Media,Media,Media,Art & Design
+val:5441:a5c8c511-a903-5a89-88f3-767feb96d563,Movies,Movies,Television,Movies,Art & Design
+val:4183:a0b70bdf-2146-550c-b651-5d5e6f28844b,Travel,Travel,Travel,Travel,Art & Design
+val:3739:c38b8752-559e-5f60-b273-797028718c78,Science,Science,Science,Science,Art & Design
+val:912:09dde550-531d-52af-9a2f-2d656a62ecf4,Television,Sports,Theater,Media,Art & Design
+val:4994:381d52ce-e46d-5f96-bc4b-386be0cef31b,Technology,Technology,Technology,Opinion,Art & Design
+val:4399:abd92d88-8f2c-5c40-a04a-bf0a0dff2f5e,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:4405:b6749090-a82a-5f76-953b-de751fe88ab0,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:1715:12b92984-f445-520b-883e-1e5dc2a6f403,Opinion,Health,Health,Health,Art & Design
+val:1958:3fe22234-22c6-5330-b747-67aa36df3adc,Art & Design,Science,Technology,Art & Design,Art & Design
+val:5864:2c1ab506-70f4-59b5-a651-f8bd427063d9,Technology,Technology,Real Estate,Technology,Art & Design
+val:2471:c8da0c63-d841-583b-909b-2929d2858025,Health,Health,Technology,Health,Art & Design
+val:199:ad40a567-0468-5e14-ae3f-2811d076da35,Real Estate,Real Estate,Real Estate,Real Estate,Art & Design
+val:5481:f3257497-916f-564c-b333-66aeea9075ba,Health,Health,Health,Health,Art & Design
+val:3698:ded1456f-a6c5-583b-989d-c62d46a6928e,Sports,Sports,Art & Design,Sports,Art & Design
+val:2017:b851daa8-5647-5e26-a864-2ebdfd06468e,Automobiles,Automobiles,Real Estate,Automobiles,Art & Design
+val:1348:e04c4b27-8b61-51d3-8953-e5408ee7f613,Fashion & Style,Fashion & Style,Music,Fashion & Style,Art & Design
+val:2772:da37e474-7306-57d0-b9e0-3bd2189b13ce,Health,Health,Books,Health,Art & Design
+val:3907:ae18e439-7176-5d48-910f-85f4156948c1,Sports,Sports,Sports,Sports,Art & Design
+val:4163:d9aa91ef-c9ae-5980-b5c5-8af1e6f109d1,Movies,Movies,Books,Movies,Art & Design
+val:3900:7e1c5b6f-76da-593b-ae91-55fbb043ad83,Real Estate,Real Estate,Real Estate,Real Estate,Art & Design
+val:4474:46067b36-3aef-568a-ac0a-062d22414071,Sports,Sports,Sports,Sports,Art & Design
+val:2203:e28cee1c-140a-5091-972a-7ad625ea4d45,Books,Music,Fashion & Style,Fashion & Style,Art & Design
+val:3435:639bcea4-5c8c-5e48-8d74-356e3716b41f,Movies,Movies,Television,Movies,Art & Design
+val:1346:97dee41b-8741-54dc-b090-4261e149dc46,Dance,Dance,Style,Dance,Art & Design
+val:2559:9f229e41-c344-5585-a524-07ccd5897fc8,Food,Food,Art & Design,Food,Art & Design
+val:396:ef84a302-4633-5690-93fa-d586f87cd307,Fashion & Style,Health,Books,Health,Art & Design
+val:2439:b7e8f9b5-ff30-57bb-8f3d-63795ff65eee,Books,Movies,Art & Design,Art & Design,Art & Design
+val:5953:4b5cf4ab-c63e-5fb9-ba96-79295612cdc1,Food,Food,Food,Food,Art & Design
+val:270:021aa2f9-61ca-5718-b9af-a2002d14f6ca,Television,Television,Food,Television,Art & Design
+val:946:2782cc16-30f1-54e9-a043-7baa66625953,Television,Television,Theater,Television,Art & Design
+val:5833:ac2845c7-471a-551d-9216-0e471d4bd308,Technology,Technology,Technology,Technology,Art & Design
+val:5734:229458a7-476d-5882-86b7-d440b5605c55,Style,Art & Design,Books,Art & Design,Art & Design
+val:2564:d15a1098-d997-5aad-960e-fe50d29d46c9,Health,Health,Food,Health,Art & Design
+val:1174:a6c5fe91-a0e2-5124-86e4-521740668d34,Technology,Technology,Art & Design,Technology,Art & Design
+val:3919:7a9ca8de-7169-5ef6-a186-054b431f7c72,Media,Media,Technology,Media,Art & Design
+val:2953:2b5e8a21-0be2-5192-b6bc-7854171b2bdd,Fashion & Style,Sports,Television,Sports,Art & Design
+val:5080:5fe0ec53-2b27-514f-ab5e-820c92925071,Art & Design,Art & Design,Art & Design,Art & Design,Art & Design
+val:1102:2434f7c7-aa81-5b15-9635-714993e601de,Books,Dance,Technology,Books,Art & Design
+val:2743:274f9929-d4e0-53d3-bda7-d395445fe073,Music,Music,Music,Music,Art & Design
+val:3928:4c1b897c-ccba-5423-8262-f8142a7656bc,Opinion,Travel,Movies,Travel,Art & Design
+val:908:d74d97a7-fd2b-56a0-b8cb-8594471b86fa,Fashion & Style,Fashion & Style,Style,Fashion & Style,Art & Design
+val:1077:4b539461-647a-5cf3-80e9-83e779a390c7,Television,Food,Movies,Music,Art & Design
+val:2495:06aa4f6b-2a3b-565c-bc5e-98e895cd41a3,Well,Well,Books,Your Money,Art & Design
+val:5861:a7757c0c-6996-5d00-8509-e47516202531,Your Money,Technology,Media,Technology,Art & Design
+val:4704:0bf81e3b-24af-5238-938d-811852c4dcca,Dance,Theater,Dance,Dance,Art & Design
+val:1741:53f1577e-8dc5-5db0-9a96-473b5c2e3910,Music,Music,Fashion & Style,Music,Art & Design
+val:2692:9218b8d6-1a91-5a79-87be-7f1bd60ddb7b,Science,Science,Travel,Science,Art & Design
+val:285:23581255-07dd-57ce-b510-ee29ebeb7037,Opinion,Health,Movies,Health,Art & Design
+val:2343:2b1060ab-1f15-5a15-9c34-cd9b03404b6c,Science,Science,Science,Science,Art & Design
+val:4987:888b9764-a864-5b71-9171-61f59d822291,Technology,Technology,Movies,Technology,Art & Design
+val:2731:6f8d880f-2c82-540e-8081-e661d859a7be,Opinion,Opinion,Music,Style,Art & Design
+val:4804:31c4b797-3062-5577-b4d0-b154c8d31b3b,Movies,Movies,Fashion & Style,Movies,Art & Design
+val:5035:42603f35-2eff-5a38-8b90-a77a30d51ce5,Health,Health,Health,Health,Art & Design
+val:130:c3b96b22-ccc1-5f1e-a2fe-45c12fa3d639,Travel,Travel,Food,Food,Art & Design
+val:784:0631251b-d6ce-5c23-b949-9581953c9505,Theater,Theater,Media,Theater,Art & Design
+val:3975:1a8642bf-beb1-5988-a5f4-87433586d39e,Television,Movies,Movies,Movies,Art & Design
+val:1752:49c25bb0-304e-5c05-92a4-d42a94f6f937,Style,Fashion & Style,Fashion & Style,Fashion & Style,Art & Design
+val:2264:c8d015d3-fa22-5551-b37a-eb35a3dc172e,Economy,Health,Media,Health,Art & Design
+val:3159:8588f41b-114d-5ea3-9538-5d46add538f3,Food,Food,Food,Food,Art & Design
+val:315:bf64406e-26fe-5573-b6f7-3461974a052e,Science,Science,Opinion,Science,Art & Design
+val:5386:03bcf770-2d7b-534a-8a11-eebcbbb55a00,Music,Music,Music,Music,Art & Design
+val:3325:9ae2dab2-b2f1-5f7b-949e-53f5288f90b6,Science,Fashion & Style,Science,Dance,Art & Design
+val:3590:e6af8ff9-4499-50fb-a1de-9ac946dd433f,Sports,Travel,Automobiles,Automobiles,Art & Design
+val:4808:7cef7d3c-3ac9-56f2-a8dd-fda9378b64e9,Dance,Dance,Fashion & Style,Theater,Art & Design
+val:5135:eecb9c90-615b-5c20-9432-50e0843ae631,Science,Science,Science,Science,Art & Design
+val:5643:5f9cdd0e-97d5-5962-98d3-08c31cdc2fcb,Dance,Travel,Real Estate,Real Estate,Art & Design
+val:671:c9eaead5-5863-5539-8f2c-a4419c705df5,Travel,Opinion,Science,Travel,Art & Design
+val:5048:ffcd8a02-2a8c-57d4-9b24-8d576cd8bbaa,Travel,Real Estate,Opinion,Real Estate,Art & Design
+val:3887:1bd80804-cbf1-5d4a-9c20-ba519d5cf077,Television,Television,Style,Television,Art & Design
+val:1528:3c416d72-c696-5248-91ad-d529bf220cdf,Media,Media,Media,Media,Art & Design
+val:4187:1c2a9751-483d-5bbd-a78e-c73177fd1934,Food,Travel,Food,Food,Art & Design
+val:2040:e701f8a9-2ebb-5aa9-bf7a-39791ed5f43d,Theater,Theater,Education,Education,Art & Design
+val:4162:eeab04f7-58c0-5008-9152-9925c9b4df9f,Health,Science,Health,Health,Art & Design
+val:476:1763f76c-b411-5d87-b418-02f7120981fd,Travel,Science,Real Estate,Science,Art & Design
+val:5104:def90822-7ee2-5154-bb2c-04285d4abcb1,Movies,Movies,Health,Movies,Art & Design
+val:5178:46482568-963e-5b11-a7ad-cceecac23aa0,Movies,Movies,Fashion & Style,Fashion & Style,Art & Design
+val:4333:306013b6-c2f7-5b76-ae14-beae2bca7cce,Media,Media,Style,Style,Art & Design
+val:1460:c019a462-8500-518a-98cd-328d4cac2f75,Theater,Dance,Theater,Theater,Art & Design
+val:1517:28bb74-6078-5ce2-bf33-59c86598c4a5,Real Estate,Television,Theater,Movies,Art & Design
+val:439:e9a656be-f233-54c8-acad-5f0a227d90d2,Television,Movies,Dance,Movies,Art & Design
+val:612:b4c57e64-66cc-50f3-afec-e85da5cb15da,Dance,Sports,Health,Real Estate,Art & Design
+val:3858:109004a4-2d84-5152-875b-e2e6ea569a44,Health,Health,Food,Health,Art & Design
+val:1343:c9c2e947-c7bd-5fd9-87b4-efc7324676b8,Movies,Movies,Opinion,Movies,Art & Design
+val:3641:79323313-196b-5238-a695-7fcfb4425ac0,Art & Design,Opinion,Television,Media,Art & Design
+val:22:dea01546-3f38-5a70-b765-069275e39d29,Theater,Movies,Media,Theater,Art & Design
+val:4510:2ba766dd-8f98-52c5-8703-b1d5f14557f5,Technology,Technology,Economy,Technology,Art & Design
+val:4489:c7cc7f66-d00f-5c09-b236-6ef1f639d4ef,Travel,Travel,Food,Food,Art & Design
+val:5005:13c737c1-979a-521c-84d5-213393a4f164,Books,Books,Opinion,Books,Art & Design
+val:4950:aa5614b2-aaed-57f9-94e3-0d3459b55edf,Real Estate,Real Estate,Technology,Travel,Art & Design
+val:177:0198bca1-d57b-5374-a826-93782deb4782,Art & Design,Theater,Science,Dance,Art & Design
+val:838:c6969642-76a8-5214-870c-58290f819e0d,Theater,Theater,Theater,Theater,Art & Design
+val:4777:c6c41fc5-d715-5c92-bd59-5ef5df980034,Media,Food,Global Business,Your Money,Art & Design
+val:424:1971b9e5-0ac8-5fa4-9b26-d5d1d25537fd,Art & Design,Dance,Books,Music,Art & Design
+val:3827:94547e2e-f6c2-55ab-999a-6b26ca9dc956,Real Estate,Style,Music,Style,Art & Design
+val:4665:cc419107-216c-5a73-9c62-b0cb065c7bf7,Opinion,Fashion & Style,Movies,Style,Art & Design
+val:3763:cabd88f0-302e-5f8c-809d-feb171d8bc7e,Music,Music,Fashion & Style,Music,Art & Design
+val:3582:f9d174f9-42f0-54c9-88d0-aa9ff23ed91f,Real Estate,Technology,Real Estate,Technology,Art & Design
+val:2199:d1ed26a7-04a3-51f7-a6be-5adb4df76b8d,Books,Opinion,Art & Design,Science,Art & Design
+val:4306:b6aa4592-f93b-5527-9b7f-05bfa7376d95,Health,Automobiles,Movies,Automobiles,Art & Design
+val:1134:0f30eaba-5ffd-561f-af3b-1770a9eed881,Media,Fashion & Style,Media,Media,Art & Design
+val:2970:78f7c105-5a12-55a9-b908-82627f23d667,Books,Books,Books,Books,Art & Design
+val:4596:9c315f2e-60b2-5a13-9deb-0ac60b191f31,Art & Design,Art & Design,Opinion,Movies,Art & Design
+val:1136:4c8a19b7-d6e6-5121-83e7-26641ed9366d,Economy,Economy,Real Estate,Economy,Art & Design
+val:4072:1f985136-55d5-5a35-967d-bc71e8d8a867,Fashion & Style,Media,Media,Media,Art & Design
+val:6003:df7b9773-35c8-52a9-8502-1bbc362e8883,Dance,Dance,Dance,Dance,Art & Design
+val:661:c76eb335-e385-5463-9fe0-0b3d75f17f45,Art & Design,Art & Design,Style,Art & Design,Art & Design
+val:2192:454cc3f2-f2b2-59e1-b370-fb07f436d825,Real Estate,Your Money,Food,Food,Art & Design
+val:5545:561342c5-1ff5-5450-a547-28baa5f9dcf2,Science,Science,Science,Science,Art & Design
+val:4892:d128b8be-f37c-56e4-b5a0-0ca897815b3c,Technology,Technology,Technology,Technology,Art & Design
+val:3485:d56330b6-3f79-5c99-b711-54d2c9f54da9,Books,Books,Travel,Travel,Art & Design
+val:139:6683a084-547d-59d5-bea8-9286bc37635c,Music,Music,Real Estate,Music,Art & Design
+val:1357:b31c55fd-0cc0-5564-91b4-cf0ef3a67500,Books,Books,Real Estate,Real Estate,Art & Design
+val:5663:6d28c0f4-d7ff-5018-b4d9-5fba8be3838f,Automobiles,Automobiles,Automobiles,Automobiles,Art & Design
+val:1874:29d44878-f2d3-5ab5-9a3b-03c0fc292166,Dance,Dance,Dance,Dance,Art & Design
+val:389:575ca5c2-822f-5b7b-bb83-c13c9f2f89e4,Science,Science,Media,Science,Art & Design
+val:722:c5067105-426f-5de3-8250-c5e376a067ad,Food,Food,Food,Food,Art & Design
+val:3586:09f5dc00-3e30-5e3d-b4c1-f3864fe938b7,Style,Media,Fashion & Style,Opinion,Art & Design
+val:5974:a709302a-eab9-57fc-b00a-4c5ead669ecb,Theater,Books,Theater,Theater,Art & Design
+val:3408:6ebc8840-15eb-5cb4-a544-c9f839439276,Media,Media,Opinion,Opinion,Art & Design
+val:4753:e8bdf560-cc6d-5ae2-a123-c1b392527735,Food,Food,Food,Food,Art & Design
+val:694:d948e270-7011-5443-b8b4-0e17d7d0f613,Style,Travel,Books,Media,Art & Design
+val:1798:72a8bd07-0d5a-5841-b391-ce3943745945,Style,Style,Movies,Movies,Art & Design
+val:4090:c7fd259b-43e1-5a3c-9269-67a1273e5739,Sports,Sports,Sports,Sports,Art & Design
+val:2939:474a7cdd-2c5e-5b05-9598-f318ed7e0834,Style,Art & Design,Dance,Dance,Art & Design
+val:858:04020aa9-f1f4-5c4e-99c6-0cb9b995883a,Music,Music,Music,Music,Art & Design
+val:624:64ba0f7c-99bf-5703-bd42-d477d90b6d7f,Travel,Travel,Travel,Travel,Art & Design
+val:2631:6f94dc35-6522-517a-8024-1092405286d9,Television,Media,Television,Television,Art & Design
+val:5363:adf499ac-eddc-5374-88f6-b1ee2d878289,Theater,Theater,Theater,Theater,Art & Design
+val:3895:e377027e-c82b-5d33-8800-5bbffe09139d,Health,Health,Art & Design,Health,Art & Design
+val:937:9655da80-27d7-5ce1-9551-9db114c7cca8,Travel,Opinion,Science,Science,Art & Design
+val:2193:4620cc71-17ea-534f-b6ea-8127b8b04039,Science,Science,Media,Health,Art & Design
+val:4639:e280cce8-8134-535f-abf4-df42ea30fbde,Technology,Technology,Books,Media,Art & Design
+val:5381:8f85448d-66b8-544a-8008-b96e3a6ec608,Fashion & Style,Real Estate,Theater,Real Estate,Art & Design
+val:963:5428bc8a-db17-5cb5-8b19-4b8c162453b5,Real Estate,Real Estate,Art & Design,Your Money,Art & Design
+val:828:93dc285e-d364-5793-a3aa-bad50cea8531,Fashion & Style,Style,Food,Food,Art & Design
+val:5789:68989386-aa9f-5ef3-a264-2370948f98d7,Your Money,Art & Design,Technology,Economy,Art & Design
+val:5989:6bba7dc8-9e8c-521f-9d29-35a0fb7258c7,Technology,Technology,Health,Health,Art & Design
+val:357:95998704-3a2f-59cd-81c2-45743902dc0a,Television,Movies,Opinion,Music,Art & Design
+val:496:141487c5-3553-58f2-aea4-d3a46a3fd855,Art & Design,Art & Design,Economy,Art & Design,Art & Design
+val:4890:cd3e1d5a-f640-5e0b-a1e9-57597363f731,Health,Global Business,Books,Media,Art & Design
+val:981:12ff1cac-02c7-5704-9831-c44594823903,Well,Science,Technology,Books,Art & Design
+val:403:c6f6c2e0-e8d9-5783-b89d-a60ed8a48239,Food,Food,Fashion & Style,Food,Art & Design
+val:1549:3bab62b4-a1a0-5f90-af3a-14d3b4849fba,Dance,Dance,Dance,Dance,Art & Design
+val:3837:e8efe45f-3723-565d-a2de-9737bad6dade,Science,Science,Science,Science,Art & Design
+val:5409:b8855590-d9bd-5216-82c8-8056964f0931,Fashion & Style,Your Money,Health,Travel,Art & Design
+val:5756:aa83860a-bccc-5015-b85a-920796d4cf90,Music,Music,Music,Music,Art & Design
+val:5078:a1ca0613-247d-59a4-8f6b-ea51e4b13007,Movies,Movies,Movies,Movies,Art & Design
+val:5027:bd7285d2-1130-508c-a664-eb08cd074dd8,Global Business,Global Business,Health,Global Business,Art & Design
+val:4112:17e2c20f-1bcf-5f1d-82af-110d19c38116,Style,Music,Style,Music,Art & Design
+val:3445:67c6ce62-a45f-5d0a-a3b9-45ea77870255,Books,Books,Media,Books,Art & Design
+val:5202:f2ad1781-d8c9-52a8-b3b4-91f2c20de5ee,Automobiles,Automobiles,Science,Automobiles,Art & Design
+val:1191:5b89ffad-a21c-57b0-b499-5695bb16164f,Health,Your Money,Theater,Health,Art & Design
+val:5466:69e8a580-dca9-50ef-9bed-3962d4c338a5,Music,Movies,Media,Style,Art & Design
+val:2813:db212e82-2dd0-5da7-9a31-016dfb374eec,Media,Media,Television,Media,Art & Design
+val:2975:8c63ee8f-67d2-534b-b513-99993bd8b9e0,Sports,Sports,Sports,Sports,Art & Design
+val:5444:be6e4b9c-ae82-558c-a661-fa47d91215f5,Dance,Dance,Dance,Dance,Art & Design
+val:2279:a260aa9b-0337-55ce-a30b-e7ac5457f181,Media,Television,Dance,Television,Art & Design
+val:3730:9df9348f-68fe-5089-bc52-ccb30ab3c4f9,Books,Books,Media,Books,Art & Design
+val:1982:9d5cf8b6-c962-589a-8e7b-db8b5396435c,Food,Style,Style,Style,Art & Design
+val:4943:017ae681-a1ae-5115-af89-a44046a6250d,Opinion,Opinion,Opinion,Opinion,Art & Design
+val:484:b455e75f-8e6f-518d-a7f5-5bfe49faa2a0,Technology,Food,Technology,Technology,Art & Design
+val:435:7e6d3c8e-f038-5754-9fba-10a884c67930,Art & Design,Science,Science,Science,Art & Design
+val:1995:e4900ab7-f65c-5732-a1ab-d0b97285f00f,Art & Design,Art & Design,Art & Design,Art & Design,Art & Design
+val:3609:5c0dccc4-e356-58a1-bfcd-5ecbb53ba6d9,Sports,Sports,Sports,Sports,Art & Design
+val:2533:42791cf6-a5e0-500c-a6e7-7ceb3c20ef4b,Art & Design,Art & Design,Art & Design,Art & Design,Art & Design
+val:5698:92f9bae4-1704-55a0-8ebe-3fc66dc9473f,Music,Music,Music,Music,Art & Design
+val:2556:5a3fccfe-a294-5919-a19a-90e2a575b0dc,Theater,Fashion & Style,Health,Fashion & Style,Art & Design

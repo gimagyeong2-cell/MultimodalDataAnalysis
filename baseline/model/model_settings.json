@@ -1,0 +1,9 @@
+{
+  "text_model": "FacebookAI/roberta-base",
+  "text_revision": "e2da8e2f811d1448a5b465c236feacd80ffbac7b",
+  "tokens": 32,
+  "text_pooling": "CLS",
+  "image_model": "resnet50",
+  "image_weights": "IMAGENET1K_V2",
+  "encoders_frozen": true
+}
